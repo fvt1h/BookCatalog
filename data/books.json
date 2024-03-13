@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "year": 2011
+    },
+    {
+        "title": "Homo Deus",
+        "author": "Yuval Noah Harari",
+        "year": 2015
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "year": 2018
+    },
+    {
+        "title": "Psychology of Money",
+        "author": "Morgan Housel",
+        "year": 2020
+    },
+    {
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "author": "Mark Manson",
+        "year": 2016
+    },
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "year": 1965
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "year": 1954
+    }
+]
